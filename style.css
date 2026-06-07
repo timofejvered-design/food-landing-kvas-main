@@ -14,10 +14,18 @@
     gap: 10px;
 }
 .header-flex{
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
     display: flex;
 }
 .logo{
     width: 200px;
 }
+.container{
+    display: flex;
+    justify-content: center; 
+}
+.h2{
+    color: brown;
+}
+    
