@@ -3,7 +3,7 @@
     align-items: center;
     display: flex;
     list-style: none;
-    gap: 100px;
+    gap: 60px;
 }
 
 .navigation-contacts {
@@ -11,10 +11,10 @@
     align-items: center;
     display: flex;
     list-style: none;
-    gap: 100px;
+    gap: 10px;
 }
 .header-flex{
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
     display: flex;
 }
