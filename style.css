@@ -3,7 +3,7 @@
     align-items: center;
     display: flex;
     list-style: none;
-    gap: 60px;
+    gap: 100px;
 }
 
 .navigation-contacts {
@@ -11,7 +11,7 @@
     align-items: center;
     display: flex;
     list-style: none;
-    gap: 10px;
+    gap: 100px;
 }
 .header-flex{
     justify-content: space-around;
@@ -28,4 +28,3 @@
 .h2{
     color: brown;
 }
-    
