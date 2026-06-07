@@ -1,0 +1,23 @@
+.navigation-id{
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    list-style: none;
+    gap: 60px;
+}
+
+.navigation-contacts {
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    list-style: none;
+    gap: 10px;
+}
+.header-flex{
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+}
+.logo{
+    width: 200px;
+}
